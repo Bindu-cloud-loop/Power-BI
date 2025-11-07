@@ -1,2 +1,2 @@
 # Power-BI
-Servito dashboard
+Dashboard
